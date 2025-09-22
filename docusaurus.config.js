@@ -97,7 +97,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/Remarkably-Mind-Blowing-Lab/smarty-pat-logic-bench/tree/main',
+            href: 'https://github.com/lk7er9yy/review/tree/main',
             label: 'GitHub',
             position: 'right',
           },
@@ -141,12 +141,12 @@ const config = {
           //     // },
           //     {
           //       label: 'GitHub',
-          //       href: 'https://github.com/Remarkably-Mind-Blowing-Lab/smarty-pat-logic-bench/tree/main',
+          //       href: 'https://github.com/lk7er9yy/review/tree/main',
           //     },
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Remarkbly Mind Blowing Lab. Built with Docusaurus + Ant Design + React.`,
+        copyright: `Copyright © ${new Date().getFullYear()}. Built with Docusaurus + Ant Design + React.`,
       },
       prism: {
         theme: prismThemes.github,
