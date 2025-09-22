@@ -15,15 +15,15 @@ const config = {
   favicon: 'img/smarty-pat-no-bg.webp',
 
   // Set the production url of your site here
-  url: 'https://remarkably-mind-blowing-lab.github.io',
+  url: 'https://lk7er9yy.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/smarty-pat-logic-bench',
+  baseUrl: '/review',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Remarkably-Mind-Blowing-Lab', // Usually your GitHub org/user name.
-  projectName: 'smarty-pat-logic-bench', // Usually your repo name.
+  organizationName: 'lk7er9yy', // Usually your GitHub org/user name.
+  projectName: 'review', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
